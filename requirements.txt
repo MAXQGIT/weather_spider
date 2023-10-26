@@ -1,0 +1,6 @@
+beautifulsoup4==4.12.2
+gevent==23.9.1
+lxml==4.9.3
+openpyxl==3.1.2
+pandas==2.0.3
+Requests==2.31.0
